@@ -1,0 +1,3 @@
+# ToDo App
+
+Practicing a simple To-Do app in React. Will update as I go along...
